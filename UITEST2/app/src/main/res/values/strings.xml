@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UITEST2</string>
+    <string name="j_script">Android Programming</string>
+    <string name="input_your_name">input your name</string>
+    <string name="dog">dog</string>
+    <string name="cat">cat</string>
+    <string name="button">Button</string>
+</resources>
